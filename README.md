@@ -24,6 +24,7 @@
 - **Axios**: Used for making HTTP requests to the backend API.
 - **React Router**: For handling client-side routing.
 - **CSS**: Custom styles for a sleek and responsive UI.
+- **Tailwind**: Custom styles for a sleek and responsive UI.
 
 ## Installation
 
