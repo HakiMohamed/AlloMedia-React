@@ -44,7 +44,7 @@ Ensure you have the following installed on your machine:
 
 2. **Run the project:**:
    ```bash
-    npm start
+    node server
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
