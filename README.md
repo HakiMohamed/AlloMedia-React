@@ -35,7 +35,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/OSMaben/allomedia_front.git
+   git clone https://github.com/HakiMohamed/AlloMedia-React.git
    cd allomedia_front
 
 2. **Install Project Dependenciesy**:
